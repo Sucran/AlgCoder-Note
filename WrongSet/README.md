@@ -8,8 +8,8 @@
 - `for`循环从大到小，`for i in range(10, n-1, 0): print i #[10, 9, ..., n]`
 - 判断输入为空列表时，直接用`if x == []`
 - 构建多维List，`list = [[0]*i for i in range(n)]`
-
-
+- 切片的效率远高于逐个元素进行操作
+- Python写`if i not in nums`这个操作事实上是去做了一次O(N)的循环
 
 
 
