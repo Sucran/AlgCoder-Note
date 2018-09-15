@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acb6aaee-4248-4338-afde-137c9960cf2a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/53-MaximumSubarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/66-PlusOne.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/88-MergeSortedArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/118-Pascal‘sTriangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/121-BestTimeToBuyAndSellStock.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WrongSet/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/WrongSet/README.md" afterDir="false" />
@@ -18,16 +17,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WrongSet/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="2" selection-start-column="2" selection-end-column="2" />
+              <first_editor relative-caret-position="225">
+                <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="121-BestTimeToBuyAndSellStock.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/121-BestTimeToBuyAndSellStock.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -50,12 +58,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="200">
-                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <first_editor relative-caret-position="125">
+                <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -82,10 +90,12 @@
         <option value="$PROJECT_DIR$/LeetCode/1-TwoSum.py" />
         <option value="$PROJECT_DIR$/LeetCode/26-RemoveDuplicatesFromSortedArray.py" />
         <option value="$PROJECT_DIR$/LeetCode/53-MaximumSubarray.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/LeetCode/66-PlusOne.py" />
         <option value="$PROJECT_DIR$/LeetCode/88-MergeSortedArray.py" />
+        <option value="$PROJECT_DIR$/LeetCode/118-Pascal‘sTriangle.py" />
+        <option value="$PROJECT_DIR$/LeetCode/121-BestTimeToBuyAndSellStock.py" />
         <option value="$PROJECT_DIR$/WrongSet/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -224,18 +234,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="200">
-            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/53-MaximumSubarray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -257,6 +255,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/118-Pascal‘sTriangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/121-BestTimeToBuyAndSellStock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WrongSet/README.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -265,8 +277,20 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="2" selection-start-column="2" selection-end-column="2" />
+          <first_editor relative-caret-position="225">
+            <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="125">
+            <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
