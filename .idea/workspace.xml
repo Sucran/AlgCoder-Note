@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acb6aaee-4248-4338-afde-137c9960cf2a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/HashTable/204-CountPrimes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/LInkedList/21-MergeTwoSortedLists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/LInkedList/141-LinkedListCycle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -52,8 +51,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="575">
-                <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <first_editor relative-caret-position="164">
+                <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -102,6 +101,7 @@
         <option value="$PROJECT_DIR$/LeetCode/283-MoveZeroes.py" />
         <option value="$PROJECT_DIR$/LeetCode/HashTable/204-CountPrimes.py" />
         <option value="$PROJECT_DIR$/LeetCode/LInkedList/21-MergeTwoSortedLists.py" />
+        <option value="$PROJECT_DIR$/LeetCode/LInkedList/141-LinkedListCycle.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -366,11 +366,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/LInkedList/141-LinkedListCycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="575">
-            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <first_editor relative-caret-position="164">
+            <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
