@@ -11,5 +11,10 @@
 - 切片的效率远高于逐个元素进行操作
 - Python写`if i not in nums`这个操作事实上是去做了一次O(N)的循环
 
+## 链表注意点
+- 写程序的时候完全可以先建一个list，每一次`head = head.next`之前都执行`list.append(head.val)`这样有助于判定链表的位置
+- `if head`判定指针非空等同于`if head != None`, `if head == None`等同于`if not head`
+
+
 
 
